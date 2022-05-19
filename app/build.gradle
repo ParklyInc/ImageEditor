@@ -28,5 +28,5 @@ dependencies {
     androidTestImplementation "junit:junit:${junit_version}"
     androidTestImplementation "androidx.test:runner:$androidx_version"
     androidTestImplementation "androidx.test.espresso:espresso-core:${espresso_version}"
-    implementation project(':ananas')
+    implementation project(':imageeditor')
 }
